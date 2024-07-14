@@ -1,0 +1,18 @@
+export const data = {
+    title: "About me",
+    subtitle1: "Skills",
+    nameSec1: "UX/UI Designer",
+    nameSec2: "Frontend Developer",
+    designDetail1: "• Most of the UI designs are clean and minimalistic.",
+    techDetail1: "• HTML, JavaScript, CSS",
+    techDetail2: "• React, NodeJs, NextJs, TailwindCSS",
+    subtitle2: "Profile",
+    name: "Name : Saralee Yeesaeng",
+    nickname: "Nickname : Nan",
+    address: "Current Address : Pathmthani",
+    age: "Age : 21 | 2003",
+    email: "Email : Saraleeyeesaeng@gmail.com",
+    phone: "Phone : 097-993-3784",
+    education: "Education : Bangkok University | School of Information Technology and Innovation — Computer Science",
+    gpa: "GPA : 3.84",
+}
