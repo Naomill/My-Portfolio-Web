@@ -4,13 +4,20 @@ import Intro from "../Intro";
 import { data } from "@/app/contents/works";
 import Footer from "../Footer";
 
-const RightSection = () => {
+const RightSection = ({ onInitial }) => {
     return (    
-        <div className="grid gap-y-40 px-5">
-            <Intro />
-            <About />
+        <div className="grid gap-y-16 lg:gap-y-40 px-5">
+            <Intro 
+                sectionTitle="Introduction"
+                onInitial={onInitial} />
+
+            <About 
+                sectionTitle="About me"
+                onInitial={onInitial} />
+
             <ContainerComponent
-                sectionTitle="My Works"
+                onInitial={onInitial}
+                sectionTitle="My works"
                 data={data}
             />
             <Footer />

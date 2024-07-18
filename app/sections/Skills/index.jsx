@@ -3,8 +3,8 @@ import { data } from "@/app/contents/skill&about";
 const Skills = () => {
     return (
         <div className="space-y-4">
-            <div className="flex space-x-4 ">
-                <div className="bg-thirdDarkPurple p-5 rounded-md flex-1 h-52 space-y-3">
+            <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
+                <div className="bg-thirdDarkPurple p-5 rounded-md flex-1 h-52 space-y-3 w-full">
                     <div className="text-white font-bold mb-2">{data.nameSec1}</div>
                     <div className="font-bold">Tools</div>
                     <div className="flex space-x-4">
@@ -16,8 +16,8 @@ const Skills = () => {
                     </div>
                 </div>
 
-                <div className="bg-thirdDarkPurple p-5 rounded-md flex-1 h-52 space-y-3">
-                    <div className="text-white  font-bold mb-2">{data.nameSec2}</div>
+                <div className="bg-thirdDarkPurple p-5 rounded-md flex-1 h-52 space-y-3 w-full">
+                    <div className="text-white font-bold mb-2">{data.nameSec2}</div>
                     <div className="font-bold">Tools</div>
                     <div className="flex space-x-4">
                         <img src="/icons_vscode.svg" alt="VsCode" className="h-12 w-12" />

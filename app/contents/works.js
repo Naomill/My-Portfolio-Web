@@ -18,7 +18,7 @@ export const data = [
     },
     {
         date: "2022",
-        title: "UX/UI Design - Clinic Website",
+        title: "UX/UI Design - Clinic Back Office System",
         link: "",
         materials: [],
         description: [
@@ -76,7 +76,7 @@ export const data = [
         link: "https://www.figma.com/proto/4B0YFIAj2dgBlWWOTbU0Tc/MY-PORTFOLIO?page-id=0%3A1&node-id=122-2&viewport=-285%2C65%2C0.19&t=SHn6B9C9QoMP2Ncp-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=122%3A2",
         materials: [
             { type: "./icons_figma.svg", link: "https://www.figma.com/proto/4B0YFIAj2dgBlWWOTbU0Tc/MY-PORTFOLIO?page-id=0%3A1&node-id=122-2&viewport=-285%2C65%2C0.19&t=SHn6B9C9QoMP2Ncp-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=122%3A2"},
-            { type: faGithub, link: ""},
+            { type: faGithub, link: "https://github.com/Naomill/My-Portfolio-Web"},
         ],
         description: [
             "I developed and designed this website to showcase my work and to use for job applications. The design is inspired by Brittany Chiang."

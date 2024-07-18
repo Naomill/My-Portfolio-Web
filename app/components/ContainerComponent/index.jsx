@@ -7,14 +7,16 @@ import TitleLink from "../TitleLink";
 import Material from "../Material";
 import Description from "../Description";
 import Tech from "../Tech";
+import { useEffect } from "react";
 
 const ContainerComponent = ({
+    onInitial,
     sectionTitle = "",
     data = [],
 }) => {
     const [isMouseEnter, setIsMouseEnter] = useState({});
 
-    const SECTION_ID = `${sectionTitle}-section`;
+    const SECTION_ID = `${sectionTitle.replace(/\s+/g, '')}-section`;
 
     const handleMouseEnter = (index) => {
         setIsMouseEnter((prev) => ({ ...prev, [index]: true }));
@@ -24,8 +26,12 @@ const ContainerComponent = ({
         setIsMouseEnter((prev) => ({ ...prev, [index]: false }));
     };
 
+    useEffect(() =>{
+        onInitial(SECTION_ID);
+    },[])
+
     return (
-        <div id={SECTION_ID}>
+        <div id={SECTION_ID} className="scroll-m-14">
             <div className="flex justify-end text-primaryPurple font-bold px-2">{sectionTitle}</div>
             {
                 data.map(({
