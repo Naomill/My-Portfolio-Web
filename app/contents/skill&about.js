@@ -9,7 +9,7 @@ export const data = {
     subtitle2: "Profile",
     name: "Name : Saralee Yeesaeng",
     nickname: "Nickname : Nan",
-    address: "Current Address : Pathmthani",
+    address: "Current Address : Khlong Nueng, Khlong Luang, Pathum Thani, 12120",
     age: "Age : 21 | 2003",
     email: "Email : Saraleeyeesaeng@gmail.com",
     phone: "Phone : 097-993-3784",

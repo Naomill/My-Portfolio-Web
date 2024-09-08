@@ -73,7 +73,7 @@ export const data = [
     {
         date: "2024 - Highlight",
         title: "UX/UI Design & Frontend Dev - Saralee, Works | Portfolio Website",
-        link: "https://www.figma.com/proto/4B0YFIAj2dgBlWWOTbU0Tc/MY-PORTFOLIO?page-id=0%3A1&node-id=122-2&viewport=-285%2C65%2C0.19&t=SHn6B9C9QoMP2Ncp-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=122%3A2",
+        link: "https://saralee-works.vercel.app/",
         materials: [
             { type: "./icons_figma.svg", link: "https://www.figma.com/proto/4B0YFIAj2dgBlWWOTbU0Tc/MY-PORTFOLIO?page-id=0%3A1&node-id=122-2&viewport=-285%2C65%2C0.19&t=SHn6B9C9QoMP2Ncp-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=122%3A2"},
             { type: faGithub, link: "https://github.com/Naomill/My-Portfolio-Web"},
