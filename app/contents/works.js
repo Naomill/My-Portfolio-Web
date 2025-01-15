@@ -38,8 +38,10 @@ export const data = [
     {
         date: "2024",
         title: "UX/UI Design - StyleYourCake Web Application",
-        link: "",
-        materials: [],
+        link: "https://www.figma.com/design/hs0eXKoSncqMD7293NzrTN/Style-your-cake?node-id=0-1&t=VeeJZibPBQNvYjJd-1",
+        materials: [
+            { type: "./icons_figma.svg", link: "https://www.figma.com/design/hs0eXKoSncqMD7293NzrTN/Style-your-cake?node-id=0-1&t=VeeJZibPBQNvYjJd-1" },
+        ],
         description: [
             "For my senior project, I worked with my team to develop and design StyleYourCake. This web application allows users to order and design cakes through a drag-and-drop interface, featuring a simple and clean style."
         ],
