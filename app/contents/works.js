@@ -68,8 +68,10 @@ export const data = [
     {
         date: "2024",
         title: "UX/UI Design - Health Hero Website",
-        link: "",
-        materials: [],
+        link: "https://www.figma.com/design/dryZlToAeaKyLIhPFO2TOC/DDC-V.3?node-id=0-1&t=WOCZg7sz0hjOtpCH-1",
+        materials: [
+            { type: "./icon_figma.svg", link: "https://www.figma.com/design/dryZlToAeaKyLIhPFO2TOC/DDC-V.3?node-id=0-1&t=WOCZg7sz0hjOtpCH-1" },
+        ],
         description: [
             "I was involved in the design and development of the backend system website for the Department of Disease Control. The design focuses on simplicity and minimalism."
         ],
@@ -81,8 +83,10 @@ export const data = [
     {
         date: "2022",
         title: "UX/UI Design - Clinic Back Office System",
-        link: "",
-        materials: [],
+        link: "https://www.figma.com/design/aUcGJYrxpDf5sJW2Jdpd8j/Clinic?node-id=0-1&t=yzMP8aOpbfQFlXFh-1",
+        materials: [
+            { type: "./icon_figma.svg", link: "https://www.figma.com/design/aUcGJYrxpDf5sJW2Jdpd8j/Clinic?node-id=0-1&t=yzMP8aOpbfQFlXFh-1" },
+        ],
         description: [
             "I collaborated with my team to design this website as part of a project for the Systems Analysis and Design (SAD) course."
         ],
