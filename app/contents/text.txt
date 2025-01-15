@@ -1,6 +1,3 @@
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
-
-export const data = [
     {
         date: "2025",
         title: "UX/UI Design & Frontend Dev - Inventory Management System",
@@ -104,4 +101,7 @@ export const data = [
         ],
         picture: "./work_img1.svg",
     },
-]
+    
+
+    
+    
