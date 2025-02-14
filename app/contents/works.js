@@ -38,9 +38,10 @@ export const data = [
     {
         date: "2024",
         title: "UX/UI Design - StyleYourCake Web Application",
-        link: "https://www.figma.com/design/hs0eXKoSncqMD7293NzrTN/Style-your-cake?node-id=0-1&t=VeeJZibPBQNvYjJd-1",
+        link: "https://style-your-cake.vercel.app/",
         materials: [
             { type: "./icons_figma.svg", link: "https://www.figma.com/design/hs0eXKoSncqMD7293NzrTN/Style-your-cake?node-id=0-1&t=VeeJZibPBQNvYjJd-1" },
+            { type: faGithub, link: "https://style-your-cake.vercel.app/"}
         ],
         description: [
             "For my senior project, I worked with my team to develop and design StyleYourCake. This web application allows users to order and design cakes through a drag-and-drop interface, featuring a simple and clean style."
@@ -85,7 +86,7 @@ export const data = [
         title: "UX/UI Design - Clinic Back Office System",
         link: "https://www.figma.com/design/aUcGJYrxpDf5sJW2Jdpd8j/Clinic?node-id=0-1&t=yzMP8aOpbfQFlXFh-1",
         materials: [
-            { type: "/.icons_figma.svg", link: "https://www.figma.com/design/aUcGJYrxpDf5sJW2Jdpd8j/Clinic?node-id=0-1&t=yzMP8aOpbfQFlXFh-1" },
+            { type: "./icons_figma.svg", link: "https://www.figma.com/design/aUcGJYrxpDf5sJW2Jdpd8j/Clinic?node-id=0-1&t=yzMP8aOpbfQFlXFh-1" },
         ],
         description: [
             "I collaborated with my team to design this website as part of a project for the Systems Analysis and Design (SAD) course."
