@@ -2,5 +2,5 @@ export const data = {
     title: "Introduction",
     header: "I’m a UX/UI designer & Frontend developer.",
     subheader: "Hello! I’m Saralee Yeesaeng,",
-    discription: "My work is driven by a commitment to user-centered design, ensuring that every project not only looks great but also delivers an exceptional user experience. Explore my portfolio to see how I blend creativity and technical expertise to create impactful digital solutions.",
+    discription: `<span class="text-white">UX/UI Designer</span> with a strong background in designing user-centric applications. Skilled in <span class="text-white">Figma, usability testing, and frontend development</span> with experience in <span class="text-white">design systems, wireframing, and interactive prototyping</span>. Passionate about <span class="text-white">creating seamless user experiences and improving accessibility</span>.`,
 }

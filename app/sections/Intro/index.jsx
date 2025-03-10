@@ -26,7 +26,7 @@ const Intro = ({
             >
                 {data.header}
             </div>
-            <div className="text-sm">{data.discription}</div>
+            <div className="text-sm" dangerouslySetInnerHTML={{ __html: data.discription }}></div>
         </div>
     );
 };

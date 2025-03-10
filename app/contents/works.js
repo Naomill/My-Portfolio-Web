@@ -2,11 +2,11 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 
 export const data = [
     {
-        date: "2025",
+        date: "2025 - Highlight",
         title: "UX/UI Design & Frontend Dev - Inventory Management System",
-        link: "https://www.figma.com/design/VDtfVS1zIniv7PQ4tGLOrN/Project-ERP?node-id=0-1&t=xZnjUWrye6EVF7Tz-1",
+        link: "https://github.com/Naomill/inventory-management-system",
         materials: [
-            { type: "./icons_figma.svg", link: "https://www.figma.com/design/hs0eXKoSncqMD7293NzrTN/Style-your-cake?node-id=0-1&t=VeeJZibPBQNvYjJd-1"},
+            { type: "./icons_figma.svg", link: "https://www.figma.com/design/VDtfVS1zIniv7PQ4tGLOrN/Project-ERP?node-id=0-1&t=xZnjUWrye6EVF7Tz-1"},
             { type: faGithub, link: "https://github.com/Naomill/inventory-management-system"},
         ],
         description: [
@@ -19,7 +19,7 @@ export const data = [
         picture: "./work_img7.svg",
     },
     {
-        date: "2024 - Highlight",
+        date: "2024",
         title: "UX/UI Design & Frontend Dev - Saralee, Works | Portfolio Website",
         link: "https://saralee-works.vercel.app/",
         materials: [
@@ -41,7 +41,6 @@ export const data = [
         link: "https://style-your-cake.vercel.app/",
         materials: [
             { type: "./icons_figma.svg", link: "https://www.figma.com/design/hs0eXKoSncqMD7293NzrTN/Style-your-cake?node-id=0-1&t=VeeJZibPBQNvYjJd-1" },
-            { type: faGithub, link: "https://style-your-cake.vercel.app/"}
         ],
         description: [
             "For my senior project, I worked with my team to develop and design StyleYourCake. This web application allows users to order and design cakes through a drag-and-drop interface, featuring a simple and clean style."
