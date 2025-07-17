@@ -37,6 +37,36 @@ export const data = [
     },
     {
         date: "2024",
+        title: "UX/UI Design - CraftPom | Minecraft web shop",
+        link: "https://www.figma.com/proto/46gZmmzD8HVAp4XdeUunkx/CraftPom?page-id=0%3A1&node-id=157-498&starting-point-node-id=157%3A498&scaling=scale-down-width&content-scaling=fixed&t=4UJGRk5mQMMwxvlJ-1",
+        materials: [
+            { type: "./icons_figma.svg", link: "https://www.figma.com/proto/46gZmmzD8HVAp4XdeUunkx/CraftPom?page-id=0%3A1&node-id=157-498&starting-point-node-id=157%3A498&scaling=scale-down-width&content-scaling=fixed&t=4UJGRk5mQMMwxvlJ-1"},
+        ],
+        description: [
+            "Designed a web-based item shop for Minecraft servers with a focus on clean UI, playful visuals, and a strong sense of community. The layout balances simplicity with an engaging look-and-feel to match the game’s creative spirit."
+        ],
+        techSskills: [
+            ["UX/UI designer"],
+        ],
+        picture: "./img_craftpom.png",
+    },
+    {
+        date: "2024",
+        title: "UX/UI Design - GamesFlexx | Company website",
+        link: "https://www.figma.com/proto/ldJuASrilVcgnnhNnguGI3/Gamesflexx?page-id=0%3A1&node-id=86-241&viewport=315%2C-466%2C0.38&t=YIlWWzHJgkUWlTjY-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=86%3A241",
+        materials: [
+            { type: "./icons_figma.svg", link: "https://www.figma.com/proto/ldJuASrilVcgnnhNnguGI3/Gamesflexx?page-id=0%3A1&node-id=86-241&viewport=315%2C-466%2C0.38&t=YIlWWzHJgkUWlTjY-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=86%3A241"},
+        ],
+        description: [
+            "Designed a company website that blends a fun, approachable tone with a professional layout. Based on client requirements, I emphasized clear navigation, easy content access, and visual identity that reflects the brand’s core values."
+        ],
+        techSskills: [
+            ["UX/UI designer"],
+        ],
+        picture: "./img_gameflexx.png",
+    },
+    {
+        date: "2024",
         title: "UX/UI Design - StyleYourCake Web Application",
         link: "https://style-your-cake.vercel.app/",
         materials: [
